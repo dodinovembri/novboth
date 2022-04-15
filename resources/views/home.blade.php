@@ -18,12 +18,12 @@
             <div class="container">
                 <div class="ttm-topbar-content">
                     <ul class="top-contact text-left">
-                        <li><i class="fa fa-map-marker"></i>24 Tech Roqad st Ny 10023</li>
-                        <li><i class="fa fa-envelope-o"></i><a href="mailto:info@example.com.com">info@example.com</a></li>
+                        <li><i class="fa fa-map-marker"></i>Jalan Melati No. 21C Kebon Jeruk</li>
+                        <li><i class="fa fa-envelope-o"></i><a href="mailto:cs@novboth.com">cs@novboth.com</a></li>
                     </ul>
                     <div class="topbar-right text-right">
                         <ul class="top-contact">
-                            <li><i class="fa fa-clock-o"></i>Office Hour: 08:00am - 6:00pm</li>
+                            <li><i class="fa fa-clock-o"></i>Office Hour: 08:00am - 05:00pm</li>
                         </ul>
                         <div class="ttm-social-links-wrapper list-inline">
                             <ul class="social-icons">
